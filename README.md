@@ -6,11 +6,9 @@
 
 
 # About
+This is a fork of the [ElmahCoreEx](https://github.com/ElmahCoreEx/ElmahCoreEx) project, aiming to ship .net 6.0 support. 
+This work contains all the fixes in [ElmahCoreEx 2.1.4-beta.1](https://github.com/ElmahCoreEx/ElmahCoreEx/releases/tag/2.1.4-beta.1)
 
-This is a fork of the [ElmahCore](https://github.com/ElmahCore/ElmahCore) project, with changes for PR's that were sitting idle.
-It should be an almost slot in replacement for ElmahCore v2.1.2.
-
-See [changelog.md](changelog.md) for any further changes from v2.1.2
 
 The interfaces and namespaces have been kept the same.
 
