@@ -1,7 +1,8 @@
-![Build Status](https://github.com/FallenAngel/ElmahCoreEx-Net6.0/actions/workflows/build6.0.yml/badge.svg)
+![Build Status](https://github.com/FallenAngel/ElmahCoreEx-Net6.0/actions/workflows/build.yml/badge.svg)
 ![Last Commit](https://img.shields.io/github/last-commit/FallenAngel/ElmahCoreEx-Net6.0?style=flat-square)
 
 ![License](https://img.shields.io/github/license/elmahcoreex/elmahcoreex)
+
 
 # About
 
