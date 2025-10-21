@@ -1,13 +1,7 @@
-![Build Status](https://github.com/elmahcoreex/elmahcoreex/actions/workflows/build.yml/badge.svg)
-![Latest Version](https://img.shields.io/nuget/v/elmahcoreex?style=flat-square)
-![Version Pre-release](https://img.shields.io/nuget/vpre/elmahcoreex?style=flat-square)
-![Last Commit](https://img.shields.io/github/last-commit/elmahcoreex/elmahcoreex?style=flat-square)
-
-![Code Quality](https://img.shields.io/codefactor/grade/github/elmahcoreex/elmahcoreex/develop?style=flat-square)
-![Dependencies](https://img.shields.io/librariesio/github/elmahcoreex/elmahcoreex?style=flat-square)
+![Build Status](https://github.com/FallenAngel/ElmahCoreEx-Net6.0/actions/workflows/build6.0.yml/badge.svg)
+![Last Commit](https://img.shields.io/github/last-commit/FallenAngel/ElmahCoreEx-Net6.0?style=flat-square)
 
 ![License](https://img.shields.io/github/license/elmahcoreex/elmahcoreex)
-![Contributors](https://img.shields.io/github/contributors/elmahcoreex/elmahcoreex?style=flat-square)
 
 # About
 
